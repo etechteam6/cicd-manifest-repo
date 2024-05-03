@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: kingmoses33/job-cicd:10
+        image: kingmoses33/job-cicd:13
         ports:
         - containerPort: 8000
